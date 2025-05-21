@@ -15,7 +15,6 @@
 
 ### 🚀 About Me:
 <div align="center">
-  <p><b>I am Batman 🦇 </b></p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp0bjYyeTF1ZWFoajdtMHR5c240eXhsaHY3eXdoY3NvNDBwbWUxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbYxDs20DECQw/giphy.gif" width="400" alt="chill-guy-gif" />
 </div>
 
@@ -52,6 +51,5 @@
 ---
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRqZWNnZTZ2aTQ5dzFqb2hqaG43a2lhbTQyN3EyNXQyb2NsaXhvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lk1IcVgqPLkA/giphy.gif" width="300" alt="cool-gif" />
   <h3>Thanks for stopping by! </h3>
 </div>
