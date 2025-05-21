@@ -25,8 +25,9 @@
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/subash-kandel-7a5721260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/subash_cndl" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white
-" alt="Twitter" /></a>
+ <a href="https://x.com/subash_cndl" target="_blank">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+</a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
