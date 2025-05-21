@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subash Kandel</h1>
-<h3 align="center">Ctrl+C / Ctrl+V Specialist | AI’s Apprentice | Code-Dependent Lifeform</h3>
+<h3 align="center">Ctrl+C / Ctrl+V Specialist | AI’s Apprentice </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=subashkandel10&label=Profile%20views&color=0e75b6&style=flat" alt="subashkandel10" /> 
